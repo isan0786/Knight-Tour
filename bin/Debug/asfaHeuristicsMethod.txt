@@ -1,0 +1,9 @@
+Trial 1:   The knight was able to successfully touch 59 squares
+
+Trial 2:   The knight was able to successfully touch 62 squares
+
+Trial 3:   The knight was able to successfully touch 59 squares
+
+Trial 4:   The knight was able to successfully touch 56 squares
+
+

@@ -1,0 +1,105 @@
+Trial 1:   The knight was able to successfully touch 61 squares
+
+Trial 2:   The knight was able to successfully touch 64 squares
+
+Trial 3:   The knight was able to successfully touch 64 squares
+
+Trial 4:   The knight was able to successfully touch 64 squares
+
+Trial 5:   The knight was able to successfully touch 52 squares
+
+Trial 6:   The knight was able to successfully touch 52 squares
+
+Trial 7:   The knight was able to successfully touch 52 squares
+
+Trial 8:   The knight was able to successfully touch 52 squares
+
+Trial 9:   The knight was able to successfully touch 52 squares
+
+Trial 10:   The knight was able to successfully touch 52 squares
+
+Trial 11:   The knight was able to successfully touch 52 squares
+
+Trial 12:   The knight was able to successfully touch 52 squares
+
+Trial 13:   The knight was able to successfully touch 52 squares
+
+Trial 14:   The knight was able to successfully touch 52 squares
+
+Trial 15:   The knight was able to successfully touch 52 squares
+
+Trial 16:   The knight was able to successfully touch 52 squares
+
+Trial 17:   The knight was able to successfully touch 52 squares
+
+Trial 18:   The knight was able to successfully touch 61 squares
+
+Trial 19:   The knight was able to successfully touch 61 squares
+
+Trial 20:   The knight was able to successfully touch 61 squares
+
+Trial 21:   The knight was able to successfully touch 61 squares
+
+Trial 22:   The knight was able to successfully touch 61 squares
+
+Trial 23:   The knight was able to successfully touch 61 squares
+
+Trial 24:   The knight was able to successfully touch 61 squares
+
+Trial 25:   The knight was able to successfully touch 61 squares
+
+Trial 26:   The knight was able to successfully touch 61 squares
+
+Trial 27:   The knight was able to successfully touch 61 squares
+
+Trial 28:   The knight was able to successfully touch 61 squares
+
+Trial 29:   The knight was able to successfully touch 61 squares
+
+Trial 30:   The knight was able to successfully touch 61 squares
+
+Trial 31:   The knight was able to successfully touch 61 squares
+
+Trial 32:   The knight was able to successfully touch 61 squares
+
+Trial 33:   The knight was able to successfully touch 61 squares
+
+Trial 34:   The knight was able to successfully touch 61 squares
+
+Trial 35:   The knight was able to successfully touch 61 squares
+
+Trial 36:   The knight was able to successfully touch 61 squares
+
+Trial 37:   The knight was able to successfully touch 61 squares
+
+Trial 38:   The knight was able to successfully touch 61 squares
+
+Trial 39:   The knight was able to successfully touch 61 squares
+
+Trial 40:   The knight was able to successfully touch 61 squares
+
+Trial 41:   The knight was able to successfully touch 61 squares
+
+Trial 42:   The knight was able to successfully touch 61 squares
+
+Trial 43:   The knight was able to successfully touch 61 squares
+
+Trial 44:   The knight was able to successfully touch 61 squares
+
+Trial 45:   The knight was able to successfully touch 61 squares
+
+Trial 46:   The knight was able to successfully touch 61 squares
+
+Trial 47:   The knight was able to successfully touch 64 squares
+
+Trial 48:   The knight was able to successfully touch 64 squares
+
+Trial 49:   The knight was able to successfully touch 64 squares
+
+Trial 50:   The knight was able to successfully touch 64 squares
+
+Trial 51:   The knight was able to successfully touch 64 squares
+
+Trial 52:   The knight was able to successfully touch 64 squares
+
+
